@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin-top: 20%;
+}
+
+.areaDiv {
+  border: 2px solid red;
+  padding: 50px;
+  display: inline-block;
+  background-color: aliceblue;
+}
+
+#coordenadas {
+  font-size: 1.5rem;
+  color: #555;
+}
